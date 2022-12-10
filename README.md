@@ -8,3 +8,4 @@ Therefore change the picture in the signature folder
 can.drawImage("signature/signature_transparent.png", 110, 170, width=160, height=60, mask="auto")
 to values that fit. Also, the height and width of the pictures can be adjusted with the respective 
 values
+* You can contact me over github, I'd be happy about pull requests
